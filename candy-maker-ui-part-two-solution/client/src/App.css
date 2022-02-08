@@ -1,0 +1,19 @@
+.app {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  margin-top: 5rem;
+  text-align: center;
+}
+
+.title {
+  font-weight: bold;
+  font-size: x-large;
+}
+
+.searchBox{
+  margin: 1rem;
+}
+
+
+
